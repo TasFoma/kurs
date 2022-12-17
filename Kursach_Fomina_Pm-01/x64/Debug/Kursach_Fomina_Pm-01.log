@@ -1,0 +1,18 @@
+﻿  Kursach_Fomina_Pm-01.cpp
+C:\Users\Nastya\source\repos\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01.cpp(19,16): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\Nastya\source\repos\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01.cpp(19,16): warning C4309: инициализация: усечение константного значения
+C:\Users\Nastya\source\repos\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01.cpp(68,37): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Nastya\source\repos\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01\Kursach_Fomina_Pm-01.cpp(71,27): warning C4244: аргумент: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  Kursach_Fomina_Pm-01.vcxproj -> C:\Users\Nastya\source\repos\Kursach_Fomina_Pm-01\x64\Debug\Kursach_Fomina_Pm-01.exe
