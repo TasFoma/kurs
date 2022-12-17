@@ -1,4 +1,4 @@
-﻿#include <set>
+#include <set>
 #include <vector>
 #include <fstream>
 #include<algorithm>
