@@ -3,11 +3,12 @@
 #include <iomanip>
 #include <iostream>
 #include <iterator>
-#include <math.h>
+#include <cmath>
 #include <set>
 #include <vector>
 
 using namespace std;
+
 vector<vector<double>> Local_matrix(3), G_matrix(3), M_matrix(3);
 vector<vector<int>> Elements, Conds1, Conds2;
 vector<vector<double>> Global_A;
